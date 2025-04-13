@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Charan Tej Katta</h1>
 <h3 align="center">Passionate Developer | Problem-Solver | Tech Enthusiast</h3>
 
-- 🌱 I’m currently learning **SpringBoot , React , BlockChain Devlopement**
+- 🌱 I’m currently learning **SpringBoot , React , BlockChain Devlopement , MERN**
 
 - 📫 How to reach me **saicharantejkatta7@gmail.com**
 
