@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **saicharantejkatta7@gmail.com**
 
+- **https://saicharantejkatta.netlify.app/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sai charan tej katta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai charan tej katta" height="30" width="40" /></a>
