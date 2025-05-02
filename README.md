@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **saicharantejkatta7@gmail.com**
 
-- **https://saicharantejkatta.netlify.app/**
+- My Portifolio ->**https://saicharantejkatta.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
